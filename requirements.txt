@@ -1,0 +1,5 @@
+selenium
+python-dotenv
+pillow
+pytesseract
+huggingface_hub
